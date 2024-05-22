@@ -3,6 +3,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=subin111's%20Repo&reversal=false&textBg=false&fontAlign=50&animation=fadeIn)
 
+# <img src="./github.svg" alt="Github" width="27" height="27"/> Github & Baekjun <img src="./baekjun.png" alt="Baekjun" width="27" height="27"/>
+
+![어린이아는개코딩산책책's GitHub stats](https://github-readme-stats.vercel.app/api?username=snubi21&show_icons=true&theme=moltack)&nbsp;&nbsp;[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=snubi21)](https://solved.ac/snubi21/)
+
 
 <br>
 
