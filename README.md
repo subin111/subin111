@@ -19,7 +19,7 @@
 <br><br>
 
 
-## 💻 the Things that I study
+## 💻 Today I learned
 
 <div style="display:flex; flex-direction:row;">
     <a href="https://littlebinsuishere.tistory.com/">
@@ -27,7 +27,7 @@
     </a>  
 
   
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=the Things that I study&theme=default)](https://littlebinsuishere.tistory.com/)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=today I learned&theme=default)](https://littlebinsuishere.tistory.com/)
 </div>
 
 
