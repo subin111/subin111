@@ -1,16 +1,42 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**subin111/subin111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=subin111's%20Repo&reversal=false&textBg=false&fontAlign=50&animation=fadeIn)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br>
+
+# <img src="./Stack_Overflow_icon.svg" alt="SVG 이미지" width="35" height="35"/> Tech Stack
+
+## 🙂 Experience with projects
+![Python](https://img.shields.io/badge/Python-ECD53F?style=for-the-badge&logo=Python&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus) ![C](https://img.shields.io/badge/C-033963?style=for-the-badge&logo=C) ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github)
+
+<br>
+
+## 🤔 Experience gained 
+![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=OpenCV) ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)  ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) 
+
+<br><br>
+
+
+## 💻 Today I Learned
+
+<div style="display:flex; flex-direction:row;">
+    <a href="https://littlebinsuishere.tistory.com/">
+        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+    </a>  
+
+  
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=the Things that I study&theme=default)](https://littlebinsuishere.tistory.com/)
+</div>
+
+
+<br>
+
+# 📞 Contact
+<a href="mailto:superbinfolder@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:jessica_sb@naver.com?"><img src="https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=NAVER&logoColor=FFFFFF"/></a>
+
+
+
+</div>
