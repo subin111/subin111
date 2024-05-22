@@ -26,8 +26,9 @@
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>  
 
-  
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=today I learned&theme=default)](https://littlebinsuishere.tistory.com/)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=littlebinsuishere&postId=default&theme=tistory)](https://github.com/loosie/github-readme-tistory-card)
+
+
 </div>
 
 
