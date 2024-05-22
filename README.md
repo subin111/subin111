@@ -19,7 +19,7 @@
 <br><br>
 
 
-## 💻 Today I Learned
+## 💻 the Things that I study
 
 <div style="display:flex; flex-direction:row;">
     <a href="https://littlebinsuishere.tistory.com/">
