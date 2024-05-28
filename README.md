@@ -41,7 +41,7 @@
 <a href="https://github.com/kyh0885" target="_blank">
 <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/수빈-이-1509472ab/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="https://yunhee858.notion.site/Yunhee-Kim-411ee46cd6854e3da81513b6a730d854" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Notion-%2312100E.svg?&style=for-the-badge&logo=notion&logoColor=white" /></a>
+<a href="https://littlebinsuishere.tistory.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Tistory-FF6633?&style=for-the-badge&logo=Tistory&logoColor=white" /></a>
 </p>
 
 ------------
@@ -50,9 +50,8 @@
 <br>
 
 <div align="center">
-    
-![Yunhee's GitHub status](https://github-readme-stats.vercel.app/api?username=kyh0885&theme=prussian&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyh0885&layout=compact&theme=tokyonight)
-    
+
+![subin111's GitHub stats](https://github-readme-stats.vercel.app/api?username=subin111&show_icons=true&theme=moltack)&nbsp;&nbsp;[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=snubi21)](https://solved.ac/snubi21/)
+
 </div>
 
