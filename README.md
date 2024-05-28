@@ -15,7 +15,7 @@
 | *Server & DB*|<img src="https://img.shields.io/badge/Apache-97D6D9?style=flat-square&logo=Apache&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-65C2C7?style=flat-square&logo=PHP&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>|
 | *Version Control & Collaboration Tools*| <img src="https://img.shields.io/badge/Git-B2B2B2?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-737373?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Google Docs-303030?style=flat-square&logo=Google&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>|
 | *OS*|<img src="https://img.shields.io/badge/Windows11-F5C27F?style=flat-square&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> |
-| *Platform & Library & Package*| <img src="https://img.shields.io/badge/OpenCV-66BEF4?style=flat-square&logo=OpenCV&logoColor=white"/> ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase) |
+| *Platform & Library & Package*| <img src="https://img.shields.io/badge/OpenCV-66BEF4?style=flat-square&logo=OpenCV&logoColor=white"/>
 
 
 <br>
