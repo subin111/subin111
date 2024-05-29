@@ -26,14 +26,17 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/kyh0885/Devicemart_project"><b>Fish Classification Project</b></a></td>
+      <td><a href="https://github.com/subin111/Smart_First-aid-kit.git"><b>Smart_First-aid kit</b></a></td>
      </tr>
 	  <tr>
-      <td><a href="https://github.com/kyh0885/iot_mini_project"><b>Pet health feed care system </b></a></td>
+      <td><a href="https://github.com/subin111/Quitsmoking_management.git"><b>Quitsmoking management system</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/kyh0885/Arduino/tree/master/Arduino%20Project1"><b>Arduino project</b></a></td>
+      <td><a href="https://github.com/subin111/Realtime_people_counting.git"><b>Realtime_people_counting</b></a></td>
     </tr>
+	  <tr>
+		  <td><a href="https://github.com/subin111/AVR_WashingMashine.git"><b>ATmega128a_washingmashine</b></a></td>
+	  </tr>
   </tbody>
 </table>
 
