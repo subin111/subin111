@@ -26,7 +26,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/subin111/Smart_First-aid-kit.git"><b>Smart_First-aid box</b></a></td>
+      <td><a href="https://github.com/subin111/smart_first_aid_box.git"><b>Smart_First-aid box</b></a></td>
      </tr>
 	  <tr>
       <td><a href="https://github.com/subin111/Quitsmoking_management.git"><b>Quitsmoking management system</b></a></td>
