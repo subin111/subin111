@@ -8,7 +8,7 @@
 
 |  | Stack skills |
 | --- | --- |
-| *Languages & Code Rules*|<img src="https://img.shields.io/badge/C-7BD2FD?style=flat-square&logo=Coursera&logoColor=white"/> <img src="https://img.shields.io/badge/C++-1CB1FC?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-037CB9?style=flat-square&logo=Python&logoColor=white"/> <img src = "https://img.shields.io/badge/JAVA-024E74?style=flat-square&logo=java&logoColor=white"> |
+| *Languages & Code Rules*|<img src="https://img.shields.io/badge/C-7BD2FD?style=flat-square&logo=Coursera&logoColor=white"/> <img src="https://img.shields.io/badge/C++-1CB1FC?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-037CB9?style=flat-square&logo=Python&logoColor=white"/> |
 | *MCU*|<img src="https://img.shields.io/badge/Arduino-FC6C14?style=flat-square&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/STM32-BE4A02?style=flat-square&logo=STMicroelectronics&logoColor=white"/> |
 | *AP*| <img src="https://img.shields.io/badge/Raspberry Pi-93FA82?style=flat-square&logo=Raspberry Pi&logoColor=black"/> <img src="https://img.shields.io/badge/Jetson Nano-52F737?style=flat-square&logo=NVIDIA&logoColor=black"/> |
 | *IDE*| <img src="https://img.shields.io/badge/Visual Studio-F2F29C?style=flat-square&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt creator&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter Notebook-AEAE16?style=flat-square&logo=Jupyter&logoColor=white"/> <img src = "https://img.shields.io/badge/Androidstudio-70700E?style=flat-square&logo=androidstudio&logoColor=white">|
