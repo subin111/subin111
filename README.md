@@ -40,9 +40,7 @@
 </table>
 
 <h3>Where to find me</h3>
-<p>
-<a href="https://github.com/kyh0885" target="_blank">
-<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<p> 
 <a href="https://www.linkedin.com/in/수빈-이-1509472ab/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="https://littlebinsuishere.tistory.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Tistory-FF6633?&style=for-the-badge&logo=Tistory&logoColor=white" /></a>
 </p>
