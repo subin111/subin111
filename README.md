@@ -25,16 +25,16 @@
 |  name(date) | skills | my task | link |
 | --- | --- | --- | --- |
 | 스마트 구급상자(2024.03)| <img src="https://img.shields.io/badge/OpenCV-66BEF4?style=flat-square&logo=OpenCV&logoColor=white"/><img src="https://img.shields.io/badge/Arduino-FC6C14?style=flat-square&logo=arduino&logoColor=white"/> |소켓 통신 & 아두이노 제어 & 보고서 아두이노 파트 작성|<a href="https://github.com/subin111/smart_first_aid_box.git"><b>smart_first_aid_box</b></a> | 
-| 스마트 금연관리 시스템(2024.05)| <img src="https://img.shields.io/badge/STM32-BE4A02?style=flat-square&logo=STMicroelectronics&logoColor=white"/><img src="https://img.shields.io/badge/Arduino-FC6C14?style=flat-square&logo=arduino&logoColor=white"/><img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/> ||<a href="https://github.com/subin111/Quitsmoking_management.git"><b>Quitsmoking management system</b></a> | 
-| AVR 미니 세탁기(2024.01)|<img src="https://img.shields.io/badge/ATmega128a-D9272E?style=flat-square&logo=mega&logoColor=white">  ||<a href="https://github.com/subin111/AVR_WashingMashine.git"><b>ATmega128a_washingmashine</b></a> | 
-| 횡단보도에서의 유동인구 카운트(2024.03)| <img src="https://img.shields.io/badge/OpenCV-66BEF4?style=flat-square&logo=OpenCV&logoColor=white"/> ||<a href="https://github.com/subin111/Realtime_people_counting.git"><b>Realtime_people_counting_crosswalk</b></a> | 
+| 스마트 금연관리 시스템(2024.05)| <img src="https://img.shields.io/badge/STM32-BE4A02?style=flat-square&logo=STMicroelectronics&logoColor=white"/><img src="https://img.shields.io/badge/Arduino-FC6C14?style=flat-square&logo=arduino&logoColor=white"/><img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/> |서버/클라이언트 소켓 통신 및 디버깅 & 서버-DB 연계|<a href="https://github.com/subin111/Quitsmoking_management.git"><b>Quitsmoking management system</b></a> | 
+| AVR 미니 세탁기(2024.01)|<img src="https://img.shields.io/badge/ATmega128a-D9272E?style=flat-square&logo=mega&logoColor=white">  |파트 별 코드 개발 & PPT 제작|<a href="https://github.com/subin111/AVR_WashingMashine.git"><b>ATmega128a_washingmashine</b></a> | 
+| 횡단보도에서의 유동인구 카운트(2024.03)| <img src="https://img.shields.io/badge/OpenCV-66BEF4?style=flat-square&logo=OpenCV&logoColor=white"/> |양방향 객체 트래킹 및 카운트 & 작업일지 및 회의록 작성|<a href="https://github.com/subin111/Realtime_people_counting.git"><b>Realtime_people_counting_crosswalk</b></a> | 
 
 <br>
 <h3>💡My projects - 홍익대학교(서울) 전자전기공학부 </h3>
 
 |  name(date) | skills | my task | link |
 | --- | --- | --- | --- |
-| 구기종목 픽토그램 maker(2022.10)| <img src="https://img.shields.io/badge/MATLAB-FC6C14?style=flat-square&logo=https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_matlab_icon_130398.png&logoColor=white"/>||<a href="https://github.com/subin111/make_pictogram_human-pose-estimation.git"><b>pictogram_maker_ballgame</b></a> | 
+| 구기종목 픽토그램 maker(2022.10)| <img src="https://img.shields.io/badge/MATLAB-FC6C14?style=flat-square&logo=https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_matlab_icon_130398.png&logoColor=white"/>|googlenet, openpose 모델 활용 및 영상처리 코드 개발 |<a href="https://github.com/subin111/make_pictogram_human-pose-estimation.git"><b>pictogram_maker_ballgame</b></a> | 
 
 <h3>Where to find me</h3>
 <p> 
