@@ -34,7 +34,7 @@
 
 |  name(date) | skills | my task | link |
 | --- | --- | --- | --- |
-| 구기종목 픽토그램 maker(2022.10)| <img src="https://img.shields.io/badge/MATLAB-FC6C14?style=flat-square&logo=https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_matlab_icon_130398.png&logoColor=white"/>|googlenet, openpose 모델 활용 및 영상처리 코드 개발 |<a href="https://github.com/subin111/make_pictogram_human-pose-estimation.git"><b>pictogram_maker_ballgame</b></a> | 
+| 구기종목 픽토그램 maker(2022.10)| <img src="https://img.shields.io/badge/MATLAB-0054FF?style=flat-square&logo=MATLAB&logoColor=white"/>|googlenet, openpose 모델 활용 및 영상처리 코드 개발 |<a href="https://github.com/subin111/make_pictogram_human-pose-estimation.git"><b>pictogram_maker_ballgame</b></a> | 
 
 <h3>Where to find me</h3>
 <p> 
