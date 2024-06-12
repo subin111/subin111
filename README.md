@@ -32,7 +32,7 @@
 
 |  name(date) | skills | my task | link |
 | --- | --- | --- | --- |
-| 구기종목 픽토그램 maker| <img src="https://img.shields.io/badge/OpenCV-66BEF4?style=flat-square&logo=OpenCV&logoColor=white"/><img src="https://img.shields.io/badge/Arduino-FC6C14?style=flat-square&logo=arduino&logoColor=white"/> ||<a href="https://github.com/subin111/smart_first_aid_box.git"><b>smart_first_aid_box</b></a> | 
+| 구기종목 픽토그램 maker| ||<a href="https://github.com/subin111/make_pictogram_human-pose-estimation.git"><b>pictogram_maker_ballgame</b></a> | 
 
 <h3>Where to find me</h3>
 <p> 
