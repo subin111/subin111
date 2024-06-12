@@ -18,26 +18,21 @@
 | *Platform & Library & Package*| <img src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat-square&logo=ros&logoColor=white"/> <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=flat-square&logo=Qt&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-66BEF4?style=flat-square&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white"/> 
 
 <br>
-<h3>💡My projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/subin111/smart_first_aid_box.git"><b>Smart_First-aid box</b></a></td>
-     </tr>
-	  <tr>
-      <td><a href="https://github.com/subin111/Quitsmoking_management.git"><b>Quitsmoking management system</b></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/subin111/Realtime_people_counting.git"><b>Realtime_people_counting_crosswalk</b></a></td>
-    </tr>
-	  <tr>
-		  <td><a href="https://github.com/subin111/AVR_WashingMashine.git"><b>ATmega128a_washingmashine</b></a></td>
-	  </tr>
-  </tbody>
-</table>
+<h3>💡My projects - 대한상공회의소</h3>
+
+|  name(date) | skills | my task | link |
+| --- | --- | --- | --- |
+| 스마트 구급상자(2024.03)| <img src="https://img.shields.io/badge/OpenCV-66BEF4?style=flat-square&logo=OpenCV&logoColor=white"/><img src="https://img.shields.io/badge/Arduino-FC6C14?style=flat-square&logo=arduino&logoColor=white"/> ||<a href="https://github.com/subin111/smart_first_aid_box.git"><b>smart_first_aid_box</b></a> | 
+| 스마트 금연관리 시스템(2024.05)| <img src="https://img.shields.io/badge/STM32-BE4A02?style=flat-square&logo=STMicroelectronics&logoColor=white"/><img src="https://img.shields.io/badge/Arduino-FC6C14?style=flat-square&logo=arduino&logoColor=white"/><img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/> ||<a href="https://github.com/subin111/Quitsmoking_management.git"><b>Quitsmoking management system</b></a> | 
+| AVR 미니 세탁기|<img src="https://img.shields.io/badge/ATmega128a-D9272E?style=flat-square&logo=mega&logoColor=white">  ||<a href="https://github.com/subin111/AVR_WashingMashine.git"><b>ATmega128a_washingmashine</b></a> | 
+| 횡단보도에서의 유동인구 카운트| <img src="https://img.shields.io/badge/OpenCV-66BEF4?style=flat-square&logo=OpenCV&logoColor=white"/> ||<a href="https://github.com/subin111/Realtime_people_counting.git"><b>Realtime_people_counting_crosswalk</b></a> | 
+
+<br>
+<h3>💡My projects - 홍익대학교(서울) 전자전기공학부 </h3>
+
+|  name(date) | skills | my task | link |
+| --- | --- | --- | --- |
+| 구기종목 픽토그램 maker| <img src="https://img.shields.io/badge/OpenCV-66BEF4?style=flat-square&logo=OpenCV&logoColor=white"/><img src="https://img.shields.io/badge/Arduino-FC6C14?style=flat-square&logo=arduino&logoColor=white"/> ||<a href="https://github.com/subin111/smart_first_aid_box.git"><b>smart_first_aid_box</b></a> | 
 
 <h3>Where to find me</h3>
 <p> 
